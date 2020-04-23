@@ -1,0 +1,55 @@
+[
+{
+  "directory": "/Users/cordelia273/Downloads/-GameGraphics-_Homework1-master 2/OpenGLES_HW1/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/cordelia273/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/cordelia273/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/cordelia273/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dnative_lib_EXPORTS -I../../../../src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/main.cpp.o -c \"/Users/cordelia273/Downloads/-GameGraphics-_Homework1-master 2/OpenGLES_HW1/app/src/main/cpp/main.cpp\"",
+  "file": "/Users/cordelia273/Downloads/-GameGraphics-_Homework1-master 2/OpenGLES_HW1/app/src/main/cpp/main.cpp"
+},
+
+{
+  "directory": "/Users/cordelia273/Downloads/-GameGraphics-_Homework1-master 2/OpenGLES_HW1/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/cordelia273/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/cordelia273/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/cordelia273/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dnative_lib_EXPORTS -I../../../../src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/asset.cpp.o -c \"/Users/cordelia273/Downloads/-GameGraphics-_Homework1-master 2/OpenGLES_HW1/app/src/main/cpp/asset.cpp\"",
+  "file": "/Users/cordelia273/Downloads/-GameGraphics-_Homework1-master 2/OpenGLES_HW1/app/src/main/cpp/asset.cpp"
+},
+
+{
+  "directory": "/Users/cordelia273/Downloads/-GameGraphics-_Homework1-master 2/OpenGLES_HW1/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/cordelia273/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/cordelia273/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/cordelia273/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dnative_lib_EXPORTS -I../../../../src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/scene.cpp.o -c \"/Users/cordelia273/Downloads/-GameGraphics-_Homework1-master 2/OpenGLES_HW1/app/src/main/cpp/scene.cpp\"",
+  "file": "/Users/cordelia273/Downloads/-GameGraphics-_Homework1-master 2/OpenGLES_HW1/app/src/main/cpp/scene.cpp"
+},
+
+{
+  "directory": "/Users/cordelia273/Downloads/-GameGraphics-_Homework1-master 2/OpenGLES_HW1/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/cordelia273/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/cordelia273/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/cordelia273/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dnative_lib_EXPORTS -I../../../../src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/program.cpp.o -c \"/Users/cordelia273/Downloads/-GameGraphics-_Homework1-master 2/OpenGLES_HW1/app/src/main/cpp/program.cpp\"",
+  "file": "/Users/cordelia273/Downloads/-GameGraphics-_Homework1-master 2/OpenGLES_HW1/app/src/main/cpp/program.cpp"
+},
+
+{
+  "directory": "/Users/cordelia273/Downloads/-GameGraphics-_Homework1-master 2/OpenGLES_HW1/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/cordelia273/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/cordelia273/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/cordelia273/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dnative_lib_EXPORTS -I../../../../src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/shader.cpp.o -c \"/Users/cordelia273/Downloads/-GameGraphics-_Homework1-master 2/OpenGLES_HW1/app/src/main/cpp/shader.cpp\"",
+  "file": "/Users/cordelia273/Downloads/-GameGraphics-_Homework1-master 2/OpenGLES_HW1/app/src/main/cpp/shader.cpp"
+},
+
+{
+  "directory": "/Users/cordelia273/Downloads/-GameGraphics-_Homework1-master 2/OpenGLES_HW1/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/cordelia273/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/cordelia273/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/cordelia273/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dnative_lib_EXPORTS -I../../../../src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/camera.cpp.o -c \"/Users/cordelia273/Downloads/-GameGraphics-_Homework1-master 2/OpenGLES_HW1/app/src/main/cpp/camera.cpp\"",
+  "file": "/Users/cordelia273/Downloads/-GameGraphics-_Homework1-master 2/OpenGLES_HW1/app/src/main/cpp/camera.cpp"
+},
+
+{
+  "directory": "/Users/cordelia273/Downloads/-GameGraphics-_Homework1-master 2/OpenGLES_HW1/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/cordelia273/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/cordelia273/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/cordelia273/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dnative_lib_EXPORTS -I../../../../src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/light.cpp.o -c \"/Users/cordelia273/Downloads/-GameGraphics-_Homework1-master 2/OpenGLES_HW1/app/src/main/cpp/light.cpp\"",
+  "file": "/Users/cordelia273/Downloads/-GameGraphics-_Homework1-master 2/OpenGLES_HW1/app/src/main/cpp/light.cpp"
+},
+
+{
+  "directory": "/Users/cordelia273/Downloads/-GameGraphics-_Homework1-master 2/OpenGLES_HW1/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/cordelia273/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/cordelia273/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/cordelia273/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dnative_lib_EXPORTS -I../../../../src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/object.cpp.o -c \"/Users/cordelia273/Downloads/-GameGraphics-_Homework1-master 2/OpenGLES_HW1/app/src/main/cpp/object.cpp\"",
+  "file": "/Users/cordelia273/Downloads/-GameGraphics-_Homework1-master 2/OpenGLES_HW1/app/src/main/cpp/object.cpp"
+},
+
+{
+  "directory": "/Users/cordelia273/Downloads/-GameGraphics-_Homework1-master 2/OpenGLES_HW1/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/cordelia273/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/cordelia273/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/cordelia273/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dnative_lib_EXPORTS -I../../../../src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/material.cpp.o -c \"/Users/cordelia273/Downloads/-GameGraphics-_Homework1-master 2/OpenGLES_HW1/app/src/main/cpp/material.cpp\"",
+  "file": "/Users/cordelia273/Downloads/-GameGraphics-_Homework1-master 2/OpenGLES_HW1/app/src/main/cpp/material.cpp"
+}
+]

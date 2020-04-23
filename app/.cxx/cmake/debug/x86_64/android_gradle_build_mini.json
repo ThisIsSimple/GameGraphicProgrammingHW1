@@ -1,0 +1,19 @@
+{
+  "buildFiles": [
+    "/Users/cordelia273/Library/Android/sdk/ndk/21.0.6113669/build/cmake/platforms.cmake",
+    "/Users/cordelia273/Library/Android/sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake",
+    "/Users/cordelia273/Downloads/-GameGraphics-_Homework1-master 2/OpenGLES_HW1/app/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/cordelia273/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/cordelia273/Downloads/-GameGraphics-_Homework1-master 2/OpenGLES_HW1/app/.cxx/cmake/debug/x86_64\" clean"
+  ],
+  "buildTargetsCommand": "/Users/cordelia273/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/cordelia273/Downloads/-GameGraphics-_Homework1-master 2/OpenGLES_HW1/app/.cxx/cmake/debug/x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-lib-Debug-x86_64": {
+      "artifactName": "native-lib",
+      "buildCommand": "/Users/cordelia273/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/cordelia273/Downloads/-GameGraphics-_Homework1-master 2/OpenGLES_HW1/app/.cxx/cmake/debug/x86_64\" native-lib",
+      "abi": "x86_64",
+      "output": "/Users/cordelia273/Downloads/-GameGraphics-_Homework1-master 2/OpenGLES_HW1/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so"
+    }
+  }
+}

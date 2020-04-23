@@ -1,0 +1,25 @@
+#version 300 es
+
+uniform mat4 worldMat, viewMat, projMat;
+uniform vec3 lightPos;
+
+layout(location = 0) in vec3 position;
+layout(location = 1) in vec3 normal;
+layout(location = 2) in vec2 texCoord;
+
+out vec3 v_normal;
+out vec2 v_texCoord;
+out vec3 v_lightDir;
+
+void main() {
+
+    // fill in the lines below
+//    gl_Position = worldMat * viewMat * projMat * vec4(position, 1.0f);
+    gl_Position = projMat * viewMat * worldMat * vec4(position, 1.0f);
+    v_normal = mat3(transpose(inverse(worldMat))) * (normal);
+    v_texCoord = texCoord;
+
+    // do not touch below
+    vec3 posWS = (worldMat * vec4(position, 1.0)).xyz;
+    v_lightDir = normalize(lightPos - posWS);
+}

@@ -1,0 +1,7 @@
+Executable : /Users/cordelia273/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Users/cordelia273/Downloads/-GameGraphics-_Homework1-master 2/OpenGLES_HW1/app/.cxx/cmake/debug/x86
+native-lib
+jvmArgs : 
+
